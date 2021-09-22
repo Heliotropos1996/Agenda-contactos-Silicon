@@ -5,4 +5,4 @@
 _Esta agenda puede guardar hasta 10 contactos cargando los datos que se muestran en la imagen. 
 Cada contacto se guarda dentro de un vector (solamente si se oprime el boton guardar), el recuadro del "indice" muestra la ubicación de ese contacto.
 Con los botones izquierda y derecha se puede acceder a los distintos contactos guardados, los cuales pueden modificarse o eliminarse
-Este proyecto puede ser conectado a una base de datos
+Este proyecto puede ser conectado a una base de datos_
